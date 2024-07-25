@@ -1,4 +1,5 @@
 # Photomosaicing with Calibrated Cameras
+![image](https://github.com/user-attachments/assets/07c9573d-0c19-422e-8afc-f9c5be7f9c6d)
 
 ## Overview
 
